@@ -1,0 +1,17 @@
+{
+  "name": "dtrace-presentation",
+  "version": "0.0.0",
+  "description": "A presentation about dtrace",
+  "dependencies": {
+    "dtrace-provider": "~0.2.8",
+    "lodash": "~2.0.0",
+    "coffee-script": "~1.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "BSD"
+}

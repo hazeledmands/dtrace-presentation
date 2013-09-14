@@ -1,0 +1,15 @@
+
+
+                    What is DTrace and why would you use it?
+                    
+                                      ~~~
+
+                   Allows you to dynamically instrument code
+                     from application level into the kernel
+
+
+                         *  Performance Analysis
+                         *  Debugging
+                         *  Code coverage
+                         *  Find out wtf is happening
+                            in your software

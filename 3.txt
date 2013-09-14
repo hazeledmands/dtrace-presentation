@@ -1,0 +1,9 @@
+               Show system calls made by a running node process:
+
+               dtrace -n 'syscall:::entry/execname == "node"/{}'
+
+                                      ~~~
+
+               Count system calls made by a running node process:
+
+     dtrace -n 'syscall:::entry/execname == "node"/{@[probefunc]=count()}'
