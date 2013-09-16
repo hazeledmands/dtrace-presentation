@@ -1,0 +1,9 @@
+
+                               :( LIMITATIONS :(
+
+
+              * Doesn't have native linux support (aka, no Heroku)
+              * Many awesome features aren't supported on OS X
+                * No ustack support
+                * No argument translation
+
