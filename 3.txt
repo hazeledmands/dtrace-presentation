@@ -1,3 +1,7 @@
+               
+
+
+
                Show system calls made by a running node process:
 
                dtrace -n 'syscall:::entry/execname == "node"/{}'
